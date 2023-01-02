@@ -1,0 +1,4 @@
+Student ID: ECE2201
+Name: c lal
+Marks in Physics: 34% 
+Grade obtained: F 
